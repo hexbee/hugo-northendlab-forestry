@@ -1,10 +1,10 @@
 baseURL = "/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "zh-cn"
 paginate = "5"
 summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
-title = "Hexbee's Blog"
+title = "Hexbee的博客"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Hexbee. <br> This is my blog site."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
